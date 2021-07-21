@@ -13,3 +13,27 @@
 4. Be familiar with the steps involved in the BI process.
 5. Be able to interact competently on the topic of BI.
 6. Have had some hands-on experience in using BI techniques.
+
+## Tools
+- Google Sheets/Excel, 
+- Google Colab
+- Tableau 
+- Github
+
+# Weekly Breakdown
+
+| Week #  | Topics Covered                                                                                                                                                                                                                           |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Week 1  | Introduction to BI (Definition, Context, Process, Use Cases)                                                                                                                                                                             |
+| Week 2  | Decision Making and Decision Support Systems<br>Discuss the decision making challenges faced by different managers<br>Discuss various DSS and its evolution                                                                              |
+| Week 3  | Introduction to Business Metrics, KPIs<br>Become familiar with business metrics used by business analysts in the area of marketing, sales, growth, engagement, and financial analysis<br>Calculate and interpret key performance metrics |
+| Week 4  | Business statistics<br>Basic statistics<br>Types of visualization<br>Interpreting visualization<br>Good visualization                                                                                                                    |
+| Week 5  | Descriptive Analysis with Excel/Google Sheets<br>Fundamentals of data and statistics with use case                                                                                                                                       |
+| Week 6  | Descriptive Analysis with Excel/Google Sheets<br>Fundamentals of data and statistics with use case                                                                                                                                       |
+| Week 7  | Time Series Analysis, Simple Regression, Trends, Seasonality concepts with relevant instances                                                                                                                                            |
+| Week 8  | Design Principles<br>Tableau Basics<br>Telling stories with Tableau                                                                                                                                                                      |
+| Week 9  | Workshop on building Tableau Dashboard                                                                                                                                                                                                   |
+| Week 10 | Workshop on building Tableau Dashboard                                                                                                                                                                                                   |
+| Week 11 | Diagnostic analysis<br>Predictive analysis<br>Prescriptive analysis                                                                                                                                                                      |
+| Week 12 | Current trends in Business Intelligence (Machine Learning, AI)                                                                                                                                                                           |
+| Week 13 | More real life use cases, Ending Notes and Finishing Projects                                                                                                                                                                            |
