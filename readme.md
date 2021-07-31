@@ -1,5 +1,7 @@
 # Business Intelligence (British College, 2021 Fall)
 
+![](venn.png)
+
 ## Objectives
 1. To ensure students understand the concepts of business analytics and data visualization
 2. To develop students' knowledge, understanding. and skills in the real life scenario tackling real world business problems using data
