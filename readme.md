@@ -16,9 +16,9 @@
 
 ## Tools
 - Google Sheets/Excel, 
-- Google Colab
 - Tableau 
 - Github
+- Basic Python and Pandas (if participants want)
 
 # Weekly Breakdown
 

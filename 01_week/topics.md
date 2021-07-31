@@ -1,0 +1,120 @@
+# Week 1 Agenda
+
+- Introductions
+- Icebreakers
+  - Introduce yourself without mentioning your academic/work background.
+  - Give us a scenario where you have used data/analytics to make a decision. (data != numbers)
+  - Break the rules above and tell us about yourself as you wish. (do not make it generic) 
+- Introduction to the curriculum (a walkthrough)
+  - What is this course? And, also importantly, what is not this course?
+  - Business Intelligence vs Business Analytics vs Data Analytics vs Machine Learning vs Data Science
+  - Objectives, Outcomes of the course
+  - Definition, Context, Process, Use Cases 
+  - Data driven decision making 
+  - Decision Support Systems (Database/Datasource, Model, UI)
+  - Statistics (descriptive and inferential)
+  - Data Visualizations with different tools
+  - EDA with different tools (primariliy on Sheets)
+  - Time Series Analysis
+  - Descriptive, Diagnostic, Predictive, Prescriptive analysis
+- Tools
+  - [x] Github
+  - [x] Google Sheets
+  - [x] Tableau
+  - [ ] Canva ?
+  - [ ] Google Colab/Python ?
+- Assignments and readings
+- Attendence / Virtual classroom etiquette
+- Lets add/subtract/develop the curriculum further (upon concensus)  
+- Case studies
+
+## Potpourri Terminilogies (will be added thoughout the course)
+- [ ] A/B testing
+- [ ] Ad Hoc Query
+- [ ] Agile
+- [ ] Anonymization
+- [ ] API
+- [ ] AWS Quicksight, Tableau, Power BI, Datastudio
+- [ ] Backend
+- [ ] Biases
+- [ ] Big Data
+- [ ] Bots
+- [ ] Brand Awareness+Equity+Loyalty
+- [ ] Business driver
+- [ ] Call to action
+- [ ] Channel
+- [ ] Churn
+- [ ] Cloud
+- [ ] Columnar Database
+- [ ] Competitive Analysis
+- [ ] Conversion
+- [ ] CRO (Conversion Rate Optimization)
+- [ ] Customer Lifetime Value
+- [ ] Dashboard
+- [ ] Data Lake
+- [ ] Data Mart
+- [ ] Data Pipeline
+- [ ] Data Storytelling
+- [ ] Data warehouse
+- [ ] Data Wrangling
+- [ ] Database
+- [ ] Demand Generation
+- [ ] Demography
+- [ ] Denormalization
+- [ ] DevOps
+- [ ] Dimensions and measures
+- [ ] Domain knowledge
+- [ ] Equity
+- [ ] ETL
+- [ ] Forecasting
+- [ ] Funnels
+- [ ] Goals
+- [ ] Hadoop, Spark etc
+- [ ] Heuristics
+- [ ] Impressions
+- [ ] In-Memory BI
+- [ ] Inmom
+- [ ] Joins
+- [ ] Kimball
+- [ ] KPIs
+- [ ] Leads
+- [ ] Lookalike audiences
+- [ ] Metadata
+- [ ] Metrics
+- [ ] Mission
+- [ ] Near Real Time
+- [ ] Normal distribution
+- [ ] Normalization
+- [ ] NPS
+- [ ] OKRs
+- [ ] OLAP
+- [ ] OLTP
+- [ ] Pandas, Tidyverse, PySpark
+- [ ] Pareto
+- [ ] Pirate Metrics 
+- [ ] Real Time
+- [ ] RDBMS
+- [ ] Roadmap
+- [ ] ROI
+- [ ] Runway period
+- [ ] SaaS
+- [ ] Schema
+- [ ] Seasonality
+- [ ] Single source of truth
+- [ ] Snapshot
+- [ ] SQL
+- [ ] Star Schema
+- [ ] Synthetic Data
+- [ ] Targets
+- [ ] Trend
+- [ ] Unstructured data and semi structured data
+- [ ] Unique Value Preposition
+- [ ] Valuation
+- [ ] View
+- [ ] Vision
+- [ ] Volume, Velocity, Variety, Veracity, Variability
+
+## Definition
+## Context
+## Process
+## Use Cases 
