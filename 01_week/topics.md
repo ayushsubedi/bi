@@ -17,7 +17,7 @@
   - EDA with different tools (primariliy on Sheets)
   - Time Series Analysis
   - Descriptive, Diagnostic, Predictive, Prescriptive analysis
-- 12 to 10
+- shrink 12 weeks to 10 weeks
 
 # Business Intelligence (British College, 2021 Fall)
 
