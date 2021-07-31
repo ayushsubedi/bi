@@ -51,11 +51,12 @@
 - [ ] CRO (Conversion Rate Optimization)
 - [ ] Customer Lifetime Value
 - [ ] Dashboard
+- [ ] Data Engineering
 - [ ] Data Lake
 - [ ] Data Mart
 - [ ] Data Pipeline
 - [ ] Data Storytelling
-- [ ] Data warehouse
+- [ ] Data Warehouse
 - [ ] Data Wrangling
 - [ ] Database
 - [ ] Demand Generation
@@ -64,11 +65,13 @@
 - [ ] DevOps
 - [ ] Dimensions and measures
 - [ ] Domain knowledge
+- [ ] Due Deligence 
 - [ ] Equity
 - [ ] ETL
 - [ ] Forecasting
 - [ ] Funnels
 - [ ] Goals
+- [ ] Grant funding
 - [ ] Hadoop, Spark etc
 - [ ] Heuristics
 - [ ] Impressions
@@ -104,6 +107,7 @@
 - [ ] Snapshot
 - [ ] SQL
 - [ ] Star Schema
+- [ ] Surveys
 - [ ] Synthetic Data
 - [ ] Targets
 - [ ] Trend
