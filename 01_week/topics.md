@@ -34,14 +34,22 @@
 - [ ] Agile
 - [ ] Anonymization
 - [ ] API
-- [ ] AWS
+- [ ] AWS Quicksight, Tableau, Power BI, Datastudio
 - [ ] Backend
 - [ ] Biases
 - [ ] Big Data
+- [ ] Bots
+- [ ] Brand Awareness+Equity+Loyalty
 - [ ] Business driver
+- [ ] Call to action
+- [ ] Channel
 - [ ] Churn
 - [ ] Cloud
 - [ ] Columnar Database
+- [ ] Competitive Analysis
+- [ ] Conversion
+- [ ] CRO (Conversion Rate Optimization)
+- [ ] Customer Lifetime Value
 - [ ] Dashboard
 - [ ] Data Lake
 - [ ] Data Mart
@@ -50,21 +58,27 @@
 - [ ] Data warehouse
 - [ ] Data Wrangling
 - [ ] Database
+- [ ] Demand Generation
+- [ ] Demography
 - [ ] Denormalization
 - [ ] DevOps
 - [ ] Dimensions and measures
 - [ ] Domain knowledge
+- [ ] Equity
 - [ ] ETL
 - [ ] Forecasting
+- [ ] Funnels
 - [ ] Goals
 - [ ] Hadoop, Spark etc
 - [ ] Heuristics
+- [ ] Impressions
 - [ ] In-Memory BI
 - [ ] Inmom
 - [ ] Joins
 - [ ] Kimball
 - [ ] KPIs
 - [ ] Leads
+- [ ] Lookalike audiences
 - [ ] Metadata
 - [ ] Metrics
 - [ ] Mission
@@ -76,6 +90,8 @@
 - [ ] OLAP
 - [ ] OLTP
 - [ ] Pandas, Tidyverse, PySpark
+- [ ] Pareto
+- [ ] Pirate Metrics 
 - [ ] Real Time
 - [ ] RDBMS
 - [ ] Roadmap
@@ -92,6 +108,8 @@
 - [ ] Targets
 - [ ] Trend
 - [ ] Unstructured data and semi structured data
+- [ ] Unique Value Preposition
+- [ ] Valuation
 - [ ] View
 - [ ] Vision
 - [ ] Volume, Velocity, Variety, Veracity, Variability
