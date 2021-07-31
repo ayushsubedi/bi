@@ -19,11 +19,9 @@
   - Descriptive, Diagnostic, Predictive, Prescriptive analysis
 - 12 to 10
 
-
-
 # Business Intelligence (British College, 2021 Fall)
 
-![](venn.png)
+![](../venn.png)
 
 ## Objectives
 1. To ensure students understand the concepts of business analytics and data visualization
