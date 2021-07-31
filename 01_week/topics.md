@@ -29,13 +29,16 @@
 - Case studies
 
 ## Potpourri Terminilogies (will be added thoughout the course)
+- [ ] A/B testing
 - [ ] Ad Hoc Query
 - [ ] Agile
 - [ ] Anonymization
 - [ ] API
 - [ ] AWS
+- [ ] Backend
 - [ ] Biases
 - [ ] Big Data
+- [ ] Business driver
 - [ ] Churn
 - [ ] Cloud
 - [ ] Columnar Database
@@ -58,6 +61,7 @@
 - [ ] Heuristics
 - [ ] In-Memory BI
 - [ ] Inmom
+- [ ] Joins
 - [ ] Kimball
 - [ ] KPIs
 - [ ] Leads
@@ -71,8 +75,11 @@
 - [ ] OKRs
 - [ ] OLAP
 - [ ] OLTP
+- [ ] Pandas, Tidyverse, PySpark
 - [ ] Real Time
+- [ ] RDBMS
 - [ ] Roadmap
+- [ ] ROI
 - [ ] Runway period
 - [ ] SaaS
 - [ ] Schema
@@ -85,7 +92,9 @@
 - [ ] Targets
 - [ ] Trend
 - [ ] Unstructured data and semi structured data
+- [ ] View
 - [ ] Vision
+- [ ] Volume, Velocity, Variety, Veracity, Variability
 
 ## Definition
 ## Context
