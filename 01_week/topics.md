@@ -10,15 +10,13 @@
   - Business Intelligence vs Business Analytics vs Data Analytics vs Machine Learning vs Data Science
   - Objectives, Outcomes of the course
   - Definition, Context, Process, Use Cases 
-  - Data driven decision making
+  - Data driven decision making 
   - Decision Support Systems (Database/Datasource, Model, UI)
-  - Metrics, KPIs
-  - Statistics (descriptive and inferential, mean, median,range, normal distribution, etc.)
+  - Statistics (descriptive and inferential)
   - Data Visualizations with different tools
   - EDA with different tools (primariliy on Sheets)
   - Time Series Analysis
-  - Diagnostic, Predictive, Prescriptive analysis
-- Introduction to the datasets that we will be using throughtout the course.
+  - Descriptive, Diagnostic, Predictive, Prescriptive analysis
 - Tools
   - [x] Github
   - [x] Google Sheets
@@ -29,6 +27,65 @@
 - Attendence / Virtual classroom etiquette
 - Lets add/subtract/develop the curriculum further (upon concensus)  
 - Case studies
+
+## Potpourri Terminilogies (will be added thoughout the course)
+- [ ] Ad Hoc Query
+- [ ] Agile
+- [ ] Anonymization
+- [ ] API
+- [ ] AWS
+- [ ] Biases
+- [ ] Big Data
+- [ ] Churn
+- [ ] Cloud
+- [ ] Columnar Database
+- [ ] Dashboard
+- [ ] Data Lake
+- [ ] Data Mart
+- [ ] Data Pipeline
+- [ ] Data Storytelling
+- [ ] Data warehouse
+- [ ] Data Wrangling
+- [ ] Database
+- [ ] Denormalization
+- [ ] DevOps
+- [ ] Dimensions and measures
+- [ ] Domain knowledge
+- [ ] ETL
+- [ ] Forecasting
+- [ ] Goals
+- [ ] Hadoop, Spark etc
+- [ ] Heuristics
+- [ ] In-Memory BI
+- [ ] Inmom
+- [ ] Kimball
+- [ ] KPIs
+- [ ] Leads
+- [ ] Metadata
+- [ ] Metrics
+- [ ] Mission
+- [ ] Near Real Time
+- [ ] Normal distribution
+- [ ] Normalization
+- [ ] NPS
+- [ ] OKRs
+- [ ] OLAP
+- [ ] OLTP
+- [ ] Real Time
+- [ ] Roadmap
+- [ ] Runway period
+- [ ] SaaS
+- [ ] Schema
+- [ ] Seasonality
+- [ ] Single source of truth
+- [ ] Snapshot
+- [ ] SQL
+- [ ] Star Schema
+- [ ] Synthetic Data
+- [ ] Targets
+- [ ] Trend
+- [ ] Unstructured data and semi structured data
+- [ ] Vision
 
 ## Definition
 ## Context
