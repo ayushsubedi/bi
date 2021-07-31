@@ -97,6 +97,7 @@
 - [ ] Columnar Database
 - [ ] Competitive Analysis
 - [ ] Conversion
+- [ ] Correlation
 - [ ] CRO (Conversion Rate Optimization)
 - [ ] Customer Lifetime Value
 - [ ] Dashboard
@@ -104,6 +105,7 @@
 - [ ] Data Lake
 - [ ] Data Mart
 - [ ] Data Pipeline
+- [ ] Data Scraping
 - [ ] Data Storytelling
 - [ ] Data Warehouse
 - [ ] Data Wrangling
@@ -113,18 +115,22 @@
 - [ ] Denormalization
 - [ ] DevOps
 - [ ] Dimensions and measures
+- [ ] Discrete, Continious, Categorical, Ordinal Data
 - [ ] Domain knowledge
 - [ ] Due Deligence 
 - [ ] Equity
 - [ ] ETL
+- [ ] EDA
 - [ ] Forecasting
 - [ ] Funnels
+- [ ] Git
 - [ ] Goals
 - [ ] Grant funding
 - [ ] Hadoop, Spark etc
 - [ ] Heuristics
 - [ ] Impressions
 - [ ] In-Memory BI
+- [ ] Infographic
 - [ ] Inmom
 - [ ] Joins
 - [ ] Kimball
@@ -144,6 +150,8 @@
 - [ ] Pandas, Tidyverse, PySpark
 - [ ] Pareto
 - [ ] Pirate Metrics 
+- [ ] Qualatitive data
+- [ ] Quantitative data
 - [ ] Real Time
 - [ ] RDBMS
 - [ ] Roadmap
@@ -153,6 +161,7 @@
 - [ ] Schema
 - [ ] Seasonality
 - [ ] Single source of truth
+- [ ] Spreadsheets
 - [ ] Snapshot
 - [ ] SQL
 - [ ] Star Schema
