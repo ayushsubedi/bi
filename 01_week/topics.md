@@ -72,14 +72,14 @@
 ## Potpourri Terminilogies (will be added thoughout the course)
 - [ ] A/B testing
 - [ ] Ad Hoc Query
-- [ ] Agile
-- [ ] Anonymization
+- [x] Agile
+- [x] Anonymization
 - [ ] API
 - [ ] AWS Quicksight, Tableau, Power BI, Datastudio
 - [ ] Backend
-- [ ] Biases
+- [x] Biases
 - [ ] Big Data
-- [ ] Bots
+- [x] Bots
 - [ ] Brand Awareness+Equity+Loyalty
 - [ ] Business driver
 - [ ] Call to action
@@ -92,7 +92,7 @@
 - [ ] Correlation
 - [ ] CRO (Conversion Rate Optimization)
 - [ ] Customer Lifetime Value
-- [ ] Dashboard
+- [x] Dashboard
 - [ ] Data Engineering
 - [ ] Data Lake
 - [ ] Data Mart
@@ -101,14 +101,14 @@
 - [ ] Data Storytelling
 - [ ] Data Warehouse
 - [ ] Data Wrangling
-- [ ] Database
+- [x] Database
 - [ ] Demand Generation
 - [ ] Demography
 - [ ] Denormalization
 - [ ] DevOps
 - [ ] Dimensions and measures
 - [ ] Discrete, Continious, Categorical, Ordinal Data
-- [ ] Domain knowledge
+- [x] Domain knowledge
 - [ ] Due Deligence 
 - [ ] Equity
 - [ ] ETL
@@ -119,7 +119,7 @@
 - [ ] Goals
 - [ ] Grant funding
 - [ ] Hadoop, Spark etc
-- [ ] Heuristics
+- [x] Heuristics
 - [ ] Impressions
 - [ ] In-Memory BI
 - [ ] Infographic
@@ -146,7 +146,7 @@
 - [ ] Quantitative data
 - [ ] Real Time
 - [ ] RDBMS
-- [ ] Roadmap
+- [x] Roadmap
 - [ ] ROI
 - [ ] Runway period
 - [ ] SaaS
@@ -162,7 +162,7 @@
 - [ ] Targets
 - [ ] Trend
 - [ ] Unstructured data and semi structured data
-- [ ] Unique Value Preposition
+- [x] Unique Value Preposition
 - [ ] Valuation
 - [ ] View
 - [ ] Vision
