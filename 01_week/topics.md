@@ -56,15 +56,7 @@
 | Week 7  | Time Series Analysis, Simple Regression, Trends, Seasonality concepts with relevant instances                                                                                                                                            |
 | Week 8  | Design Principles<br>Tableau Basics<br>Telling stories with Tableau                                                                                                                                                                      |
 | Week 9  | Workshop on building Tableau Dashboard                                                                                                                                                                                                   |
-| Week 10 | Workshop on building Tableau Dashboard                                                                                                                                                                                                   |
-| Week 11 | Diagnostic analysis<br>Predictive analysis<br>Prescriptive analysis                                                                                                                                                                      |
-| Week 12 | Current trends in Business Intelligence (Machine Learning, AI)                                                                                                                                                                           |
-| Week 13 | More real life use cases, Ending Notes and Finishing Projects                                                                                                                                                                            |
-
-
-
-
-
+| Week 10 | Current trends in BI, ending notes, complete projects, wrap up                                                                                                                                                                           |
 
 - Tools
   - [x] Github
