@@ -44,4 +44,25 @@ enables you to apply different variable, such as determining the maximum price y
 monitors performance of variable that are outside a defined range, such as pinpointing the region that generated hightst sale, or production center that went over budget.
 
 
+## Users/Stakeholders
+- user/consumer
+  - what are the requirements? 
+- managerial designer
+  - what type of data should be collected?
+  - how recent should the data be?
+  - who are the end users?
+  - how should the data be organized?
+  - how should the data be updated?
+  - how should the data be stored?
+- technical designer
+  - what type of file structure should be used?
+  - what type of user access should be used?
+  - what type of response time is required?
+  - what type of security measures are needed?
+  - decide to build the DSS from scratch/oursource/SaaS/purchase
+- model builder
+  - liaison between users and designers 
+- UI/UX designer (etc.)
+
+**DSS facilitates improvements but does not necessarily cause them.**
 
