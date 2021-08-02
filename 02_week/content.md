@@ -8,7 +8,7 @@
 
 
 # Decision Support Systems
-A decision support system (DSS) is an interactive information system that supports business or organizational decision-making activities.
+A decision support system (DSS) is an interactive information system that supports business or organizational decision-making activities. These software tools are developed for the specific purpose of assimilating pertinent data and generating a detail analysis of a given situation. The results can be utilized in making an informed decision regarding any set of circumstances. 
 
 ## Requirements for DSS
 - Be interactive
