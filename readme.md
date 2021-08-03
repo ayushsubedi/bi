@@ -1,6 +1,6 @@
 # Business Intelligence (British College, 2021 Fall)
 
-![](venn.png)
+![](assets/venn.png)
 
 ## Objectives
 1. To ensure students understand the concepts of business analytics and data visualization
@@ -139,3 +139,7 @@
 - [ ] View
 - [ ] Vision
 - [ ] Volume, Velocity, Variety, Veracity, Variability
+
+## Don't worry, some of the acronyms confuse everyone
+
+![](assets/merkel.jpg)
