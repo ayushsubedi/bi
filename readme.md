@@ -39,3 +39,103 @@
 | Week 11 | Diagnostic analysis<br>Predictive analysis<br>Prescriptive analysis                                                                                                                                                                      |
 | Week 12 | Current trends in Business Intelligence (Machine Learning, AI)                                                                                                                                                                           |
 | Week 13 | More real life use cases, Ending Notes and Finishing Projects                                                                                                                                                                            |
+
+
+## Potpourri Terminilogies (will be added thoughout the course)
+- [ ] A/B testing
+- [ ] Ad Hoc Query
+- [x] Agile
+- [x] Anonymization
+- [ ] API
+- [ ] AWS Quicksight, Tableau, Power BI, Datastudio
+- [ ] Backend
+- [x] Biases
+- [ ] Big Data
+- [x] Bots
+- [ ] Brand Awareness+Equity+Loyalty
+- [ ] Business driver
+- [ ] Call to action
+- [ ] Channel
+- [ ] Churn
+- [ ] Cloud
+- [ ] Columnar Database
+- [ ] Competitive Analysis
+- [ ] Conversion
+- [ ] Correlation
+- [ ] CRO (Conversion Rate Optimization)
+- [ ] Customer Lifetime Value
+- [x] Dashboard
+- [ ] Data Engineering
+- [ ] Data Lake
+- [ ] Data Mart
+- [ ] Data Pipeline
+- [ ] Data Scraping
+- [ ] Data Storytelling
+- [ ] Data Warehouse
+- [ ] Data Wrangling
+- [x] Database
+- [ ] Demand Generation
+- [ ] Demography
+- [ ] Denormalization
+- [ ] DevOps
+- [ ] Dimensions and measures
+- [ ] Discrete, Continious, Categorical, Ordinal Data
+- [x] Domain knowledge
+- [ ] Due Deligence 
+- [ ] Equity
+- [ ] ETL
+- [ ] EDA
+- [ ] Forecasting
+- [ ] Funnels
+- [ ] Git
+- [ ] Goals
+- [ ] Grant funding
+- [ ] Hadoop, Spark etc
+- [x] Heuristics
+- [ ] Impressions
+- [ ] In-Memory BI
+- [ ] Infographic
+- [ ] Inmom
+- [ ] Joins
+- [ ] Kimball
+- [ ] KPIs
+- [ ] Leads
+- [ ] Lookalike audiences
+- [ ] Metadata
+- [ ] Metrics
+- [ ] Mission
+- [ ] Near Real Time
+- [ ] Normal distribution
+- [ ] Normalization
+- [ ] NPS
+- [ ] OKRs
+- [ ] OLAP
+- [ ] OLTP
+- [ ] Pandas, Tidyverse, PySpark
+- [ ] Pareto
+- [ ] Pirate Metrics 
+- [ ] Qualatitive data
+- [ ] Quantitative data
+- [ ] Real Time
+- [ ] RDBMS
+- [x] Roadmap
+- [ ] ROI
+- [ ] Runway period
+- [ ] SaaS
+- [ ] Schema
+- [ ] Seasonality
+- [ ] Single source of truth
+- [ ] Spreadsheets
+- [ ] Snapshot
+- [ ] SQL
+- [ ] Star Schema
+- [ ] Surveys
+- [ ] Synthetic Data
+- [ ] Targets
+- [ ] Trend
+- [ ] Unstructured data and semi structured data
+- [x] Unique Value Preposition
+- [ ] Valuation
+- [ ] View
+- [ ] Vision
+- [ ] Volume, Velocity, Variety, Veracity, Variability
