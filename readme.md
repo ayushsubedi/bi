@@ -43,12 +43,14 @@
 
 ## Potpourri Terminilogies (will be added thoughout the course)
 - [ ] A/B testing
+- [ ] ACID compliancy
 - [ ] Ad Hoc Query
 - [x] Agile
 - [x] Anonymization
 - [ ] API
 - [ ] AWS Quicksight, Tableau, Power BI, Datastudio
 - [ ] Backend
+- [ ] Batch processing vs streaming
 - [x] Biases
 - [ ] Big Data
 - [x] Bots
@@ -125,6 +127,8 @@
 - [ ] Schema
 - [ ] Seasonality
 - [ ] Single source of truth
+- [ ] Semi structured data
+- [ ] Structured data
 - [ ] Spreadsheets
 - [ ] Snapshot
 - [ ] SQL
@@ -133,12 +137,16 @@
 - [ ] Synthetic Data
 - [ ] Targets
 - [ ] Trend
-- [ ] Unstructured data and semi structured data
+- [ ] Unstructured data
 - [x] Unique Value Preposition
 - [ ] Valuation
 - [ ] View
 - [ ] Vision
-- [ ] Volume, Velocity, Variety, Veracity, Variability
+- [ ] Volume
+- [ ] Velocity
+- [ ] Variety
+- [ ] Veracity
+- [ ] Variability
 
 ## Don't worry, some of the acronyms confuse everyone
 
