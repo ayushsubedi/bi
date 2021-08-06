@@ -151,3 +151,5 @@
 ## Don't worry, some of the acronyms confuse everyone
 
 ![](assets/merkel.jpg)
+
+<sub><sup>Source: https://www.perdoo.com/resources/merkel-asks-what-does-okr-mean/</sup></sub>
