@@ -75,6 +75,7 @@
 - [ ] Data Storytelling
 - [ ] Data Warehouse
 - [ ] Data Wrangling
+- [ ] Data Cleansing, Referential integrity, Domain integrity, Entity integrity
 - [x] Database
 - [ ] Demand Generation
 - [ ] Demography
