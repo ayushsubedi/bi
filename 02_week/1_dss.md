@@ -10,6 +10,8 @@ Decision making is the process of making choices by identifying a decision, gath
 - Take action
 - Review your decision and its consequences.
 
+
+## decisions, decisions! 
 - algorithm
 - models
 - flowcharts
@@ -43,7 +45,6 @@ Mathematical and statistical models that along with the database, enable the DSS
 
 ### Interface
 How user access the DSS? example querying the database, accessing it via a dashboard, API etc.
-
 
 ## Types of features to support decision making
 
