@@ -94,3 +94,10 @@ All decisions about the organization of data and storage of attributes are based
 
 
 ETL—Extract, Transform, Load—is the process of collecting data from raw data sources and transforming that data into a common type. This new data is loaded into a final location to be available for analytical analysis and inspection. In modern cloud-based environments, we often refer to this process as ELT (Extract, Load, Transform) instead. The steps are simply performed in a different order, but the result is the same.
+
+
+- Ingest/Collect
+- Store
+- Process/Analyze
+- Consume/Visualize
+- Answers and Insights
