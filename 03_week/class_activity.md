@@ -1,15 +1,24 @@
-# Review
+# Where are we?
+
+## Previosly in this class
 - Ingest/Collect
 - Store
 - Process/Analyze
 - Consume/Visualize
 - Answers and Insights
 
-# Synthetic data
+## Later on in this class
+- Exploratory data analysis
+- Forecasting
+- Dashboards
+
+# Dataset
+
+## Synthetic data
 - is synthetic random?
 - examples
 
-# Real world patterns
+## Real world patterns
 - growth
 - market saturation
 - trend
@@ -21,7 +30,7 @@
 - nepali context
 - relationships between data (name and gender as an example)
 
-# Class Activity
+## Class Activity
 
 ## eHamroPasalmandu.com
 
