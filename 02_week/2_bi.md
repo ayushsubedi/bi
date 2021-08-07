@@ -95,9 +95,47 @@ All decisions about the organization of data and storage of attributes are based
 
 ETL—Extract, Transform, Load—is the process of collecting data from raw data sources and transforming that data into a common type. This new data is loaded into a final location to be available for analytical analysis and inspection. In modern cloud-based environments, we often refer to this process as ELT (Extract, Load, Transform) instead. The steps are simply performed in a different order, but the result is the same.
 
+## Introduction to data lakes
 
-- Ingest/Collect
-- Store
-- Process/Analyze
-- Consume/Visualize
-- Answers and Insights
+- A data lake is an architectural concept that helps you manage multiple data types from multiple sources, both structured and unstructured, through a single set of tools.
+- A data lake takes Amazon S3 buckets and organizes them by categorizing the data inside the buckets. It doesn’t matter how the data got there or what kind it is. You can store both structured and unstructured data effectively in an Amazon S3 data lake.
+- Out of the dire need for organizing the ever increasing volume of data, data lakes were born.
+- Data lakes promise the ability to store all data for a business in a single repository. You can leverage data lakes to store large volumes of data instead of persisting that data in data warehouses.
+- Data lakes, such as those built in Amazon S3, are generally less expensive than specialized big data storage solutions.
+- That way, you only pay for the specialized solutions when using them for processing and analytics and not for long-term storage.
+- Your extract, transform, and load (ETL) and analytic process can still access this data for analytics. 
+
+## Benefits
+- Single source of truth
+- Store any type of data, regardless of structure
+- can be used later for other purposes (AI etc)
+
+## Data Warehouses
+- central repository of structured data 
+- usually transformed before put in the warehouse
+- AWS -> Amazon Redshift
+- build to store and query up to petabytes of data
+- Amazon Redshift Specturm allows you to query both datalakes and data warehouse
+- Amazon EMR: managed hadoop framework
+- Whether you use Hadoop on-premises or Amazon EMR, you will use the same tools, with one major exception: Amazon EMR uses its own file system. And that means you can use your Amazon S3 data lake as the data store. So there’s no need to copy data into the cluster, as you would with Hadoop on-premises.
+- Amazon EMR File System can catalog data within an Amazon S3 data lake and from an on-premises Hadoop File System at the same time
+- The first principle of data analysis is to separate storage from processing. Amazon EMR is a perfect example of this principle.
+- A data warehouse is a central repository of structured data from many data sources. This data is transformed, aggregated, and prepared for business reporting and analysis.
+- Data flows into a data warehouse from transactional systems, relational databases, and other sources. These data sources can include structured, semistructured, and unstructured data. These data sources are transformed into structured data before they are stored in the data warehouse.
+- Data is stored within the data warehouse using a schema. A schema defines how data is stored within tables, columns, and rows.
+- Business analysts, data scientists, and decision makers access the data through business intelligence (BI) tools, SQL clients, and other analytics applications. 
+
+## Data marts
+- subset of data warehouse
+- Data marts only focus on one subject or functional area
+- A warehouse might contain all relevant sources for an enterprise, but a data mart might store only a single department’s sources.
+- because data marts are generally a copy of data already contained in a data warehouse, they are often fast and simple to implement
+
+| Characteristics       | Data warehouse                                                                                  | Data lake                                                                                                       |
+| --------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Data                  | Relational from transactional systems, operational databases, and line of business applications | Non-relational and relational from IoT devices, websites, mobile apps, social media, and corporate applications |
+| Schema                | Designed prior to implementation (schema-on-write)                                              | Written at the time of analysis<br>(schema-on-read)                                                             |
+| Price/<br>performance | Fastest query results using higher cost storage                                                 | Query results getting faster using<br>low-cost storage                                                          |
+| Data quality          | Highly curated data that serves as the central version of the truth                             | Any data, which may or may not be curated (e.g., raw data)                                                      |
+| Users                 | Business analysts                                                                               | Data scientists, data developers, and business analysts (using curated data)                                    |
+| Analytics             | Batch reporting, BI, and visualizations                                                         | Machine learning, predictive analytics, data discovery, and profiling.                                          |
