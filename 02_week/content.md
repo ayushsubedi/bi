@@ -1,14 +1,8 @@
 # Decision Making
 
 
-
-
-
-
-
-
 # Decision Support Systems
-A decision support system (DSS) is an interactive information system that supports business or organizational decision-making activities. These software tools are developed for the specific purpose of assimilating pertinent data and generating a detail analysis of a given situation. The results can be utilized in making an informed decision regarding any set of circumstances. 
+A decision support system (DSS) is an **interactive** information system that supports business or organizational decision-making activities. These software tools are developed for the specific purpose of assimilating pertinent data and generating a detail analysis of a given situation. The results can be utilized in making an informed decision regarding any set of circumstances. 
 
 ## Requirements for DSS
 - Be interactive
@@ -20,6 +14,13 @@ A decision support system (DSS) is an interactive information system that suppor
 ## Major components
 ### Organizational Data
 Structured and unstructured data (can be internal or external)
+- Structured data is organized and stored in the form of values that are grouped into rows and columns of a table.
+- Semistructured data is often stored in a series of key-value pairs that are grouped into elements within a file.
+- Unstructured data is not structured in a consistent way. Some data may have structure similar to semi-structured data but others may only contain metadata.
+
+- only about 10% is structured
+- 10% semi-structured
+- 80% everything else
 
 ### Model
 Mathematical and statistical models that along with the database, enable the DSS to analyze information. 
@@ -31,7 +32,7 @@ How user access the DSS? example querying the database, accessing it via a dashb
 
 ## Types of features to support decision making
 
-### What if
+### What if analysis?
 shows the effect of a change in one variable
 
 ### Goal seeking
@@ -41,7 +42,7 @@ reverse of what if, it asks what has to be done to achieve a particular goal
 enables you to apply different variable, such as determining the maximum price you would pay for raw materials and still make profit
 
 ### Exception reporting
-monitors performance of variable that are outside a defined range, such as pinpointing the region that generated hightst sale, or production center that went over budget.
+monitors performance of variable that are outside a defined range, such as pinpointing the region that generated highest sale, or production center that went over budget.
 
 
 ## Users/Stakeholders
@@ -61,6 +62,7 @@ monitors performance of variable that are outside a defined range, such as pinpo
   - what type of security measures are needed?
   - decide to build the DSS from scratch/oursource/SaaS/purchase
 - model builder
+  - understand requirements from all sides 
   - liaison between users and designers 
 - UI/UX designer (etc.)
 
