@@ -43,24 +43,24 @@
 
 ## Potpourri Terminilogies (will be added thoughout the course)
 - [ ] A/B testing
-- [ ] ACID compliancy
-- [ ] Ad Hoc Query
+- [x] ACID compliancy
+- [x] Ad Hoc Query
 - [x] Agile
 - [x] Anonymization
 - [ ] API
 - [ ] AWS Quicksight, Tableau, Power BI, Datastudio
 - [ ] Backend
-- [ ] Batch processing vs streaming
+- [x] Batch processing vs streaming
 - [x] Biases
-- [ ] Big Data
+- [x] Big Data
 - [x] Bots
 - [ ] Brand Awareness+Equity+Loyalty
 - [ ] Business driver
 - [ ] Call to action
 - [ ] Channel
 - [ ] Churn
-- [ ] Cloud
-- [ ] Columnar Database
+- [x] Cloud
+- [x] Columnar Database
 - [ ] Competitive Analysis
 - [ ] Conversion
 - [ ] Correlation
@@ -68,29 +68,29 @@
 - [ ] Customer Lifetime Value
 - [x] Dashboard
 - [ ] Data Engineering
-- [ ] Data Lake
-- [ ] Data Mart
+- [x] Data Lake
+- [x] Data Mart
 - [ ] Data Pipeline
 - [ ] Data Scraping
 - [ ] Data Storytelling
-- [ ] Data Warehouse
-- [ ] Data Wrangling
-- [ ] Data Cleansing, Referential integrity, Domain integrity, Entity integrity
+- [x] Data Warehouse
+- [x] Data Wrangling
+- [x] Data Cleansing, Referential integrity, Domain integrity, Entity integrity
 - [x] Database
 - [ ] Demand Generation
 - [ ] Demography
-- [ ] Denormalization
+- [x] Denormalization
 - [ ] DevOps
 - [ ] Dimensions and measures
 - [ ] Discrete, Continious, Categorical, Ordinal Data
 - [x] Domain knowledge
 - [ ] Due Deligence 
 - [ ] Equity
-- [ ] ETL
+- [x] ETL
 - [ ] EDA
 - [ ] Forecasting
 - [ ] Funnels
-- [ ] Git
+- [x] Git
 - [ ] Goals
 - [ ] Grant funding
 - [ ] Hadoop, Spark etc
@@ -98,9 +98,7 @@
 - [ ] Impressions
 - [ ] In-Memory BI
 - [ ] Infographic
-- [ ] Inmom
 - [ ] Joins
-- [ ] Kimball
 - [ ] KPIs
 - [ ] Leads
 - [ ] Lookalike audiences
@@ -109,45 +107,44 @@
 - [ ] Mission
 - [ ] Near Real Time
 - [ ] Normal distribution
-- [ ] Normalization
+- [x] Normalization
 - [ ] NPS
 - [ ] OKRs
-- [ ] OLAP
-- [ ] OLTP
+- [x] OLAP
+- [X] OLTP
 - [ ] Pandas, Tidyverse, PySpark
 - [ ] Pareto
 - [ ] Pirate Metrics 
 - [ ] Qualatitive data
 - [ ] Quantitative data
 - [ ] Real Time
-- [ ] RDBMS
+- [x] RDBMS
 - [x] Roadmap
 - [ ] ROI
 - [ ] Runway period
 - [ ] SaaS
-- [ ] Schema
+- [x] Schema
 - [ ] Seasonality
-- [ ] Single source of truth
-- [ ] Semi structured data
+- [x] Single source of truth
+- [x] Semi structured data
 - [ ] Structured data
 - [ ] Spreadsheets
 - [ ] Snapshot
-- [ ] SQL
-- [ ] Star Schema
+- [x] SQL
 - [ ] Surveys
 - [ ] Synthetic Data
 - [ ] Targets
 - [ ] Trend
-- [ ] Unstructured data
+- [x] Unstructured data
 - [x] Unique Value Preposition
 - [ ] Valuation
 - [ ] View
 - [ ] Vision
-- [ ] Volume
-- [ ] Velocity
-- [ ] Variety
-- [ ] Veracity
-- [ ] Variability
+- [x] Volume
+- [x] Velocity
+- [x] Variety
+- [x] Veracity
+- [x] Variability
 
 ## Don't worry, some of the acronyms confuse everyone
 
