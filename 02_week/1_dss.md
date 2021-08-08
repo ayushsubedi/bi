@@ -3,7 +3,7 @@
 Decision making is the process of making choices by identifying a decision, gathering information, and assessing alternative resolutions.
 
 - Identify the decision (realize that you need to make a decision)
-- Gather relevant informatiuon
+- Gather relevant information
 - Identify the alternatives
 - Weight the evidence
 - Choose among alternatives
