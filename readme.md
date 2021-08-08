@@ -39,10 +39,10 @@
 
 ## Potpourri Terminilogies (will be added thoughout the course)
 - [ ] A/B testing
-- [x] ACID compliancy
-- [x] Ad Hoc Query
-- [x] Agile
-- [x] Anonymization
+- [ ] ACID compliancy
+- [ ] Ad Hoc Query
+- [ ] Agile
+- [ ] Anonymization
 - [ ] API
 - [ ] AWS Quicksight, Tableau, Power BI, Datastudio
 - [ ] Backend
@@ -56,7 +56,7 @@
 - [ ] Channel
 - [ ] Churn
 - [x] Cloud
-- [x] Columnar Database
+- [ ] Columnar Database
 - [ ] Competitive Analysis
 - [ ] Conversion
 - [ ] Correlation
@@ -123,12 +123,12 @@
 - [ ] Seasonality
 - [x] Single source of truth
 - [x] Semi structured data
-- [ ] Structured data
+- [x] Structured data
 - [ ] Spreadsheets
 - [ ] Snapshot
 - [x] SQL
 - [ ] Surveys
-- [ ] Synthetic Data
+- [x] Synthetic Data
 - [ ] Targets
 - [ ] Trend
 - [x] Unstructured data
