@@ -19,7 +19,7 @@
 - examples
 
 ## Different ways of creating synthetic data
-- anonymization
+- anonymization (https://kohokoho.herokuapp.com/)
 - scratch
 - mix
 
