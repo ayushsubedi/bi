@@ -36,6 +36,7 @@
 - relationships between data (name and gender as an example)
 
 ## Class Activity
+- what do you think the demography will look like (gender breakdown, age breakdown, address?, income? etc)
 
 ## eHamroPasalmandu.com
 
