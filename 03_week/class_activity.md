@@ -18,6 +18,11 @@
 - is synthetic random?
 - examples
 
+## Different ways of creating synthetic data
+- anonymization
+- scratch
+- mix
+
 ## Real world patterns
 - growth
 - market saturation
