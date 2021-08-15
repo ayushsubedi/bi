@@ -43,6 +43,12 @@
 - lets explore similar questions.
 
 ## eHamroPasalmandu.com
+Categories
+- Mobile phones 
+- Tablets
+- Accessories
+- Sim card
+- Software
 
 # Tables
 - users table
