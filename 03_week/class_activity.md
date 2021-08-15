@@ -9,8 +9,8 @@
 
 ## Later on in this class
 - Exploratory data analysis
+- Dashboards and Reporting 
 - Forecasting
-- Dashboards
 
 # Dataset
 
@@ -45,8 +45,7 @@
 ## eHamroPasalmandu.com
 
 # Tables
-- app downloads table (play store + ios)
 - users table
 - transactions table
 - items table
-- category table (for simplicity let us skip this)
+- category table (lets have 3-5 categories) 
