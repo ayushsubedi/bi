@@ -42,7 +42,7 @@
 - [ ] ACID compliancy
 - [ ] Ad Hoc Query
 - [ ] Agile
-- [ ] Anonymization
+- [x] Anonymization
 - [ ] API
 - [ ] AWS Quicksight, Tableau, Power BI, Datastudio
 - [ ] Backend
@@ -74,7 +74,7 @@
 - [x] Data Cleansing, Referential integrity, Domain integrity, Entity integrity
 - [x] Database
 - [ ] Demand Generation
-- [ ] Demography
+- [x] Demography
 - [x] Denormalization
 - [ ] DevOps
 - [ ] Dimensions and measures
@@ -83,8 +83,8 @@
 - [ ] Due Deligence 
 - [ ] Equity
 - [x] ETL
-- [ ] EDA
-- [ ] Forecasting
+- [x] EDA
+- [x] Forecasting
 - [ ] Funnels
 - [x] Git
 - [ ] Goals
@@ -99,7 +99,7 @@
 - [ ] Leads
 - [ ] Lookalike audiences
 - [ ] Metadata
-- [ ] Metrics
+- [x] Metrics
 - [ ] Mission
 - [ ] Near Real Time
 - [ ] Normal distribution
@@ -111,9 +111,9 @@
 - [ ] Pandas, Tidyverse, PySpark
 - [ ] Pareto
 - [ ] Pirate Metrics 
-- [ ] Qualatitive data
-- [ ] Quantitative data
-- [ ] Real Time
+- [x] Qualatitive data
+- [x] Quantitative data
+- [x] Real Time
 - [x] RDBMS
 - [x] Roadmap
 - [ ] ROI
