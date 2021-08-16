@@ -54,7 +54,7 @@ Categories
 - users table
 - transactions table
 - items table
-- category table (lets have 3-5 categories) 
+
 
 ### Users
 | columns        |                                     |                                                                               |
@@ -68,3 +68,14 @@ Categories
 | channel        | facebook, friends,                  | 60% Word of Mouth, 10 Facebook post/ads, 10% others, 10% google search, 10% organic |
 | first\_contact | app, web                            | random                                                                        |
 | created on     |                                     | date                                                                          |
+
+### Items
+| columns        |                                     |  
+| -------------- | ----------------------------------- | 
+| item\_id       |                                     | 
+| name           |                                     | 
+| category       |                                     | 
+| price          |                                     |
+| inventory      |                                     |
+| URL.           |                                     |
+
