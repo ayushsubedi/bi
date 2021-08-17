@@ -44,11 +44,9 @@
 
 ## eHamroPasalmandu.com
 Categories
-- Mobile phones 
-- Tablets
-- Accessories
-- Sim card
-- Software
+- Mobile phone
+- Laptop
+- ca
 
 # Tables
 - users table
@@ -64,18 +62,17 @@ Categories
 | address        |                                     | kathmandu addresses                                                           |
 | email          |                                     | firstname@lastname.fakedata.com                                               |
 | dob            |                                     | 16-24, 24-30, 30-36, 36-42, 42+                                               |
-| gender         | male/female/other/prefer not to say | approx 60% M, 40% F                                                           |
+| gender         | male, female, other, prefer not to say | approx 60% M, 40% F                                                           |
 | channel        | facebook, friends,                  | 60% Word of Mouth, 10 Facebook post/ads, 10% others, 10% google search, 10% organic |
 | first\_contact | app, web                            | random                                                                        |
 | created on     |                                     | date                                                                          |
 
 ### Items
-| columns        |                                     |  
-| -------------- | ----------------------------------- | 
-| item\_id       |                                     | 
-| name           |                                     | 
-| category       |                                     | 
-| price          |                                     |
-| inventory      |                                     |
-| URL.           |                                     |
-
+| columns   |                              |                     |
+| --------- | ---------------------------- | ------------------- |
+| item\_id  |                              | primary key of item |
+| name      |                              |                     |
+| category  | mobile phone, laptop, camera |                     |
+| price     |                              |                     |
+| inventory |                              |                     |
+| url       |                              |                     |
