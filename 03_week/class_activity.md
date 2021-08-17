@@ -54,7 +54,7 @@ Categories
 - Item table
 
 
-### Client
+### Client Table Sample
 
 | client\_id | name            | gender | dob        | email                                                                 | phone      | channel      | first\_contact | lat     | lon     | location\_name                    | created\_at         |
 | ---------- | --------------- | ------ | ---------- | --------------------------------------------------------------------- | ---------- | ------------ | -------------- | ------- | ------- | --------------------------------- | ------------------- |
@@ -64,4 +64,13 @@ Categories
 | 100000003  | Prapti Lingden  | Female | 2000-02-06 | [prapti.lingden@fakeemail.com](mailto:prapti.lingden@fakeemail.com)   | 9841648216 | Other        | browser        | 27.6863 | 85.3183 | School Of Creative Communications | 2020-09-01 16:13:48 |
 | 100000004  | Srijan Biswash  | Male   | 1997-04-13 | [srijan.biswash@fakeemail.com](mailto:srijan.biswash@fakeemail.com)   | 9841587182 | Other        | browser        | 27.7015 | 85.3484 | Sumitra Villa                     | 2020-09-01 5:38:38  |
 
-### Items
+### Items Table Sample
+| **item\_id** | **item\_name**                                                                      | **category** | **image\_url**                                                                                                                                                                                                                                                             | **inventory** |
+| ------------ | ----------------------------------------------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| **10000**    | Acer Aspire 3 (15.6″ HD, Ryzen 5 3500U, Radeon Vega 8, 4GB, 1TB HDD)                | Laptop       | [https://dummyimage.com/600x400/000/fff&text=Acer+Aspire+3+(15.6″+HD,+Ryzen+5+3500U,+Radeon+Vega+8,+4GB,+1TB+HDD)](https://dummyimage.com/600x400/000/fff&text=Acer+Aspire+3+(15.6%E2%80%B3+HD,+Ryzen+5+3500U,+Radeon+Vega+8,+4GB,+1TB+HDD))                               | 46            |
+| **10001**    | Mi 11X Pro (8+128GB)                                                                | Phone        | [https://dummyimage.com/600x400/000/fff&text=Mi+11X+Pro+(8+128GB)](https://dummyimage.com/600x400/000/fff&text=Mi+11X+Pro+(8+128GB))                                                                                                                                       | 96            |
+| **10002**    | Poco M3 (4+64GB)                                                                    | Phone        | [https://dummyimage.com/600x400/000/fff&text=Poco+M3+(4+64GB)](https://dummyimage.com/600x400/000/fff&text=Poco+M3+(4+64GB))                                                                                                                                               | 67            |
+| **10003**    | Galaxy F22 (4+64GB)                                                                 | Phone        | [https://dummyimage.com/600x400/000/fff&text=Galaxy+F22+(4+64GB)](https://dummyimage.com/600x400/000/fff&text=Galaxy+F22+(4+64GB))                                                                                                                                         | 10            |
+| **10004**    | ZenBook 14 UX435EG (14” FHD Touch, Intel i7-1165G7, GeForce MX450, 16GB, 512GB SSD) | Laptop       | [https://dummyimage.com/600x400/000/fff&text=ZenBook+14+UX435EG+(14”+FHD+Touch,+Intel+i7-1165G7,+GeForce+MX450,+16GB,+512GB+SSD)](https://dummyimage.com/600x400/000/fff&text=ZenBook+14+UX435EG+(14%E2%80%9D+FHD+Touch,+Intel+i7-1165G7,+GeForce+MX450,+16GB,+512GB+SSD)) | 32            |
+| **10005**    | OnePlus 8T (12+256GB)                                                               | Phone        | [https://dummyimage.com/600x400/000/fff&text=OnePlus+8T+(12+256GB)](https://dummyimage.com/600x400/000/fff&text=OnePlus+8T+(12+256GB))                                                                                                                                     | 41            |
+| **10006**    | Poco X3 Pro (6+128GB)                                                               | Phone        | [https://dummyimage.com/600x400/000/fff&text=Poco+X3+Pro+(6+128GB)](https://dummyimage.com/600x400/000/fff&text=Poco+X3+Pro+(6+128GB))                                                                                                                                     | 39            |
