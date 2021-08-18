@@ -153,7 +153,7 @@
 Categories
 - Mobile phone
 - Laptop
-- ca
+- Camera
 
 # Tables
 - Client table
