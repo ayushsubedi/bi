@@ -1,1 +1,2 @@
-https://guides.library.duke.edu/datavis/topten
+- https://guides.library.duke.edu/datavis/topten
+- https://dataschool.com/how-to-design-a-dashboard/
