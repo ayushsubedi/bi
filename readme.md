@@ -44,7 +44,7 @@
 - [ ] Agile
 - [x] Anonymization
 - [ ] API
-- [ ] AWS Quicksight, Tableau, Power BI, Datastudio
+- [x] AWS Quicksight, Tableau, Power BI, Datastudio
 - [ ] Backend
 - [x] Batch processing vs streaming
 - [x] Biases
@@ -53,8 +53,8 @@
 - [ ] Brand Awareness+Equity+Loyalty
 - [ ] Business driver
 - [ ] Call to action
-- [ ] Channel
-- [ ] Churn
+- [x] Channel
+- [x] Churn
 - [x] Cloud
 - [ ] Columnar Database
 - [ ] Competitive Analysis
@@ -78,14 +78,14 @@
 - [x] Denormalization
 - [ ] DevOps
 - [ ] Dimensions and measures
-- [ ] Discrete, Continious, Categorical, Ordinal Data
+- [x] Discrete, Continious, Categorical, Ordinal Data
 - [x] Domain knowledge
 - [ ] Due Deligence 
 - [ ] Equity
 - [x] ETL
 - [x] EDA
 - [x] Forecasting
-- [ ] Funnels
+- [x] Funnels
 - [x] Git
 - [ ] Goals
 - [ ] Grant funding
@@ -94,23 +94,23 @@
 - [ ] Impressions
 - [ ] In-Memory BI
 - [ ] Infographic
-- [ ] Joins
+- [x] Joins
 - [ ] KPIs
-- [ ] Leads
+- [x] Leads
 - [ ] Lookalike audiences
 - [ ] Metadata
 - [x] Metrics
 - [ ] Mission
 - [ ] Near Real Time
-- [ ] Normal distribution
+- [x] Normal distribution
 - [x] Normalization
-- [ ] NPS
+- [ ] Net Promoter Score
 - [ ] OKRs
 - [x] OLAP
 - [X] OLTP
-- [ ] Pandas, Tidyverse, PySpark
-- [ ] Pareto
-- [ ] Pirate Metrics 
+- [x] Pandas, Tidyverse, PySpark
+- [x] Pareto
+- [x] Pirate Metrics 
 - [x] Qualatitive data
 - [x] Quantitative data
 - [x] Real Time
@@ -124,13 +124,12 @@
 - [x] Single source of truth
 - [x] Semi structured data
 - [x] Structured data
-- [ ] Spreadsheets
+- [x] Spreadsheets
 - [ ] Snapshot
 - [x] SQL
-- [ ] Surveys
+- [x] Surveys
 - [x] Synthetic Data
-- [ ] Targets
-- [ ] Trend
+- [x] Trend
 - [x] Unstructured data
 - [x] Unique Value Preposition
 - [ ] Valuation
