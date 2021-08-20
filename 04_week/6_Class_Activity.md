@@ -7,3 +7,4 @@ Look at the datasets available in the datasets folder and answer the following
 
 Finally,
 Try doing the analysis, transformation, and insight generation in excel/Python/Tableau/______
+Also install: https://www.tableau.com/products/public 
