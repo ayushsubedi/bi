@@ -57,9 +57,9 @@
 - [x] Churn
 - [x] Cloud
 - [ ] Columnar Database
-- [ ] Competitive Analysis
+- [x] Competitive Analysis
 - [ ] Conversion
-- [ ] Correlation
+- [x] Correlation
 - [ ] CRO (Conversion Rate Optimization)
 - [ ] Customer Lifetime Value
 - [x] Dashboard
@@ -68,7 +68,7 @@
 - [x] Data Mart
 - [ ] Data Pipeline
 - [ ] Data Scraping
-- [ ] Data Storytelling
+- [x] Data Storytelling
 - [x] Data Warehouse
 - [x] Data Wrangling
 - [x] Data Cleansing, Referential integrity, Domain integrity, Entity integrity
@@ -93,7 +93,7 @@
 - [x] Heuristics
 - [ ] Impressions
 - [ ] In-Memory BI
-- [ ] Infographic
+- [x] Infographic
 - [x] Joins
 - [ ] KPIs
 - [x] Leads
@@ -117,10 +117,10 @@
 - [x] RDBMS
 - [x] Roadmap
 - [ ] ROI
-- [ ] Runway period
+- [x] Runway period
 - [ ] SaaS
 - [x] Schema
-- [ ] Seasonality
+- [x] Seasonality
 - [x] Single source of truth
 - [x] Semi structured data
 - [x] Structured data
