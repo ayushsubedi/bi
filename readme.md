@@ -39,20 +39,20 @@
 
 ## Potpourri Terminilogies (will be added thoughout the course)
 - [ ] A/B testing
-- [ ] ACID compliancy
+- [x] ACID compliancy
 - [ ] Ad Hoc Query
 - [ ] Agile
 - [x] Anonymization
-- [ ] API
+- [x] API
 - [x] AWS Quicksight, Tableau, Power BI, Datastudio
 - [ ] Backend
 - [x] Batch processing vs streaming
 - [x] Biases
 - [x] Big Data
 - [x] Bots
-- [ ] Brand Awareness+Equity+Loyalty
-- [ ] Business driver
-- [ ] Call to action
+- [x] Brand Awareness+Equity+Loyalty
+- [x] Business driver
+- [x] Call to action
 - [x] Channel
 - [x] Churn
 - [x] Cloud
@@ -73,32 +73,30 @@
 - [x] Data Wrangling
 - [x] Data Cleansing, Referential integrity, Domain integrity, Entity integrity
 - [x] Database
-- [ ] Demand Generation
+- [x] Demand Generation
 - [x] Demography
 - [x] Denormalization
 - [ ] DevOps
 - [ ] Dimensions and measures
 - [x] Discrete, Continious, Categorical, Ordinal Data
 - [x] Domain knowledge
-- [ ] Due Deligence 
-- [ ] Equity
 - [x] ETL
 - [x] EDA
 - [x] Forecasting
 - [x] Funnels
 - [x] Git
-- [ ] Goals
-- [ ] Grant funding
+- [x] Goals
+- [x] Grant funding
 - [ ] Hadoop, Spark etc
 - [x] Heuristics
 - [ ] Impressions
 - [ ] In-Memory BI
 - [x] Infographic
 - [x] Joins
-- [ ] KPIs
+- [x] KPIs
 - [x] Leads
-- [ ] Lookalike audiences
-- [ ] Metadata
+- [x] Lookalike audiences
+- [x] Metadata
 - [x] Metrics
 - [ ] Mission
 - [ ] Near Real Time
@@ -108,6 +106,7 @@
 - [ ] OKRs
 - [x] OLAP
 - [X] OLTP
+- [x] outlier
 - [x] Pandas, Tidyverse, PySpark
 - [x] Pareto
 - [x] Pirate Metrics 
