@@ -38,36 +38,35 @@
 
 
 ## Potpourri Terminilogies (will be added thoughout the course)
-- [ ] A/B testing
+- [x] A/B testing
 - [x] ACID compliancy
-- [ ] Ad Hoc Query
-- [ ] Agile
+- [x] Ad Hoc
+- [x] Agile
 - [x] Anonymization
 - [x] API
 - [x] AWS Quicksight, Tableau, Power BI, Datastudio
-- [ ] Backend
+- [x] Backend
 - [x] Batch processing vs streaming
 - [x] Biases
 - [x] Big Data
 - [x] Bots
 - [x] Brand Awareness+Equity+Loyalty
-- [x] Business driver
 - [x] Call to action
 - [x] Channel
 - [x] Churn
 - [x] Cloud
-- [ ] Columnar Database
+- [x] Columnar Database
 - [x] Competitive Analysis
-- [ ] Conversion
+- [x] Conversion
 - [x] Correlation
-- [ ] CRO (Conversion Rate Optimization)
-- [ ] Customer Lifetime Value
+- [x] CRO (Conversion Rate Optimization)
+- [x] Customer Lifetime Value
 - [x] Dashboard
-- [ ] Data Engineering
+- [x] Data Engineering
 - [x] Data Lake
 - [x] Data Mart
-- [ ] Data Pipeline
-- [ ] Data Scraping
+- [x] Data Pipeline (Luigi, Apache airflow)
+- [x] Data Scraping
 - [x] Data Storytelling
 - [x] Data Warehouse
 - [x] Data Wrangling
