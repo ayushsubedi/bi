@@ -75,8 +75,8 @@
 - [x] Demand Generation
 - [x] Demography
 - [x] Denormalization
-- [ ] DevOps
-- [ ] Dimensions and measures
+- [x] DevOps
+- [x] Dimensions and measures
 - [x] Discrete, Continious, Categorical, Ordinal Data
 - [x] Domain knowledge
 - [x] ETL
@@ -86,10 +86,10 @@
 - [x] Git
 - [x] Goals
 - [x] Grant funding
-- [ ] Hadoop, Spark etc
+- [x] Hadoop, Spark etc
 - [x] Heuristics
-- [ ] Impressions
-- [ ] In-Memory BI
+- [x] Impressions
+- [x] In-Memory BI
 - [x] Infographic
 - [x] Joins
 - [x] KPIs
@@ -97,12 +97,12 @@
 - [x] Lookalike audiences
 - [x] Metadata
 - [x] Metrics
-- [ ] Mission
-- [ ] Near Real Time
+- [x] Mission
+- [x] Near Real Time
 - [x] Normal distribution
 - [x] Normalization
-- [ ] Net Promoter Score
-- [ ] OKRs
+- [x] Net Promoter Score
+- [x] OKRs
 - [x] OLAP
 - [X] OLTP
 - [x] outlier
@@ -114,25 +114,25 @@
 - [x] Real Time
 - [x] RDBMS
 - [x] Roadmap
-- [ ] ROI
+- [x] ROI
 - [x] Runway period
-- [ ] SaaS
+- [x] SaaS
 - [x] Schema
 - [x] Seasonality
 - [x] Single source of truth
 - [x] Semi structured data
 - [x] Structured data
 - [x] Spreadsheets
-- [ ] Snapshot
+- [x] Snapshot
 - [x] SQL
 - [x] Surveys
 - [x] Synthetic Data
 - [x] Trend
 - [x] Unstructured data
 - [x] Unique Value Preposition
-- [ ] Valuation
-- [ ] View
-- [ ] Vision
+- [x] Valuation
+- [x] View
+- [x] Vision
 - [x] Volume
 - [x] Velocity
 - [x] Variety
